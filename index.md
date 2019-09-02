@@ -1,3 +1,7 @@
+theme: Midnight
+title: Welcome to HokageSteve's homepage!
+discription: Feel free to browse and keep an eye out for future projects!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/HokageSteve/HokageSteve.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
