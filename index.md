@@ -1,8 +1,8 @@
-# title: Welcome to HokageSteve's homepage!    
+# Title: *Welcome to HokageSteve's homepage!*    
 
-## theme: Midnight 
+## Theme: *Midnight* 
 
-### discription: Feel free to browse and keep an eye out for future projects!
+### Discription: *Feel free to browse and keep an eye out for future projects!*
 
 ## Welcome to GitHub Pages
 
